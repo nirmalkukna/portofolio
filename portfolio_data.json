@@ -1,0 +1,194 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Nirmal Kukna. I'm working with newest front-end frameworks like Flutter, React, Quasar and Vue. I love my job. Because I love what I do, I have a constant source of motivation that motivates me to do my best. In my last job, this love made me challenge myself every day and learn new skills that helped me do a better job. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "LEBANON HUB",
+        "startDate": "2021",
+        "description": "Lebanon Hub is an initiative launched on the Google Play Store aiming to connect the international Lebanese community. It also aims to foster economic and business opportunities among Lebanese communities from across the world.",
+        "images": [
+          "images/portfolio/lebanonhub.jpg",
+          "images/portfolio/lebanonhub2.jpg"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.app.lebanonhub",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain colored",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain colored",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Geniusbee",
+        "startDate": "2020",
+        "description": "GeniusBee application is News, Tutorial and Quiz Application. GeniusBee provide different news source like Aajtak, ABP news, News 24, Patrika etc. and Tutorial like Android Development, web Development, Ethical Hacking and current affairs etc. . GeniusBee Application is hybrid application for Android and IOS. GeniusBee use flutter , dart, firebase and JSON.",
+        "images": [
+          "images/geniusbee.jpg"
+        ],
+        "url": "https://github.com/nirmalkukna/Geniusbee",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain colored",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain colored",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-android-plain colored",
+            "name": "Android"
+          }
+        ]
+      },
+      {
+        "title": "FoodShala",
+        "startDate": "2020",
+        "description": "",
+        "images": [
+          "images/portfolio/foodshala.webp",
+          "images/portfolio/foodshala2.png"
+        ],
+        "url": "https://github.com/nirmalkukna/foodshala",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-php-plain colored",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "BloodBank",
+        "startDate": "2020",
+        "description": "Bring a life back to power. Make blood donation your responsibility ",
+        "images": [
+          "images/portfolio/bloodbank2.jpg",
+          "images/portfolio/bloodbank.png"
+        ],
+        "url": "https://nirmaldonateblood.000webhostapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-php-plain colored",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Hackathon Web",
+        "startDate": "2019",
+        "description": "JOIN THE COMMUNITY OF REAL GLOBAL PROBLEM SOLVERS",
+        "images": [
+          "images/portfolio/hackathon.png",
+          "images/portfolio/hackathon2.jpg"
+        ],
+        "url": "https://github.com/nirmalkukna/hackathon_web",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-php-plain colored",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Phoenix Advanced Softwares Pvt. Ltd.",
+        "title": "Full-Stack Developer",
+        "years": "12.2020 - present",
+        "mainTech": [
+          "PHP, Laravel, React"
+        ],
+        "technologies": [
+          "REST API",
+          "HTML",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "PHP",
+          ".NET Core",
+          "Laravel"
+        ]
+      },
+      {
+        "company": "Dianapps Pvt. Ltd.",
+        "title": "Software Engineer",
+        "years": "12.2019 - 7.2020",
+        "mainTech": [
+          "Vue.js, ReactNative, Laravel"
+        ],
+        "technologies": [
+          "ReactNative",
+          "Vue.js",
+          "Flutter",
+          "PHP",
+          "Laravel",
+          "HTML",
+          "JavaScript",
+          "Wordpress"
+        ]
+      },
+      {
+        "company": "Devtron Labs Pvt. Ltd.",
+        "title": "Software Engineer Intern",
+        "years": "12.2019 - 7.2020",
+        "mainTech": [
+          "PHP, JavaScript, Android"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "Android"
+        ]
+      }
+    ]
+  }
